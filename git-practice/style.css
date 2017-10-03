@@ -12,3 +12,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+label {
+  display: block;
+}
+
+input {
+  display: block;
+}
