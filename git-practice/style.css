@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   max-width: 1000px;
   margin: 0 auto;
@@ -6,6 +10,7 @@ body {
 form {
   width: 640px;
   margin: 0 auto;
+  border: 1px black;
 }
 
 img {
@@ -15,6 +20,8 @@ img {
 
 label {
   display: block;
+  padding: 20px;
+  margin: 0 auto;
 }
 
 input {
