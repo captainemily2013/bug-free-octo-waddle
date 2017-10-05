@@ -2,6 +2,14 @@
   box-sizing: border-box;
 }
 
+header {
+  width: 100%;
+  font-size: 40px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
 body {
   max-width: 1000px;
   margin: 0 auto;
