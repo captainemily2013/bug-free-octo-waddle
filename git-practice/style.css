@@ -40,6 +40,7 @@ label {
 input {
   display: block;
   padding: 2px;
+  max-width: 100%;
 }
 
 .required {
